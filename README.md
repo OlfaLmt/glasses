@@ -1,2 +1,2 @@
 # glasses
-A dataset of 40 images and annotations for glasses detection.
+A dataset of 42 images and annotations for glasses detection.
